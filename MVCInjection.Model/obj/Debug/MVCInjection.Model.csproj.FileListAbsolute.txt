@@ -1,0 +1,5 @@
+c:\Users\pankaj.choudhary\documents\visual studio 2015\Projects\Unity\MVCInjection.Model\bin\Debug\MVCInjection.Model.dll
+c:\Users\pankaj.choudhary\documents\visual studio 2015\Projects\Unity\MVCInjection.Model\bin\Debug\MVCInjection.Model.pdb
+c:\Users\pankaj.choudhary\documents\visual studio 2015\Projects\Unity\MVCInjection.Model\obj\Debug\MVCInjection.Model.csprojResolveAssemblyReference.cache
+c:\Users\pankaj.choudhary\documents\visual studio 2015\Projects\Unity\MVCInjection.Model\obj\Debug\MVCInjection.Model.dll
+c:\Users\pankaj.choudhary\documents\visual studio 2015\Projects\Unity\MVCInjection.Model\obj\Debug\MVCInjection.Model.pdb

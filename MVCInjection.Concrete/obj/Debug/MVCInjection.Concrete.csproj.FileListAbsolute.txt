@@ -1,0 +1,9 @@
+c:\Users\pankaj.choudhary\documents\visual studio 2015\Projects\Unity\MVCInjection.Concrete\bin\Debug\MVCInjection.Concrete.dll
+c:\Users\pankaj.choudhary\documents\visual studio 2015\Projects\Unity\MVCInjection.Concrete\bin\Debug\MVCInjection.Concrete.pdb
+c:\Users\pankaj.choudhary\documents\visual studio 2015\Projects\Unity\MVCInjection.Concrete\bin\Debug\MVCInjection.Interface.dll
+c:\Users\pankaj.choudhary\documents\visual studio 2015\Projects\Unity\MVCInjection.Concrete\bin\Debug\MVCInjection.Model.dll
+c:\Users\pankaj.choudhary\documents\visual studio 2015\Projects\Unity\MVCInjection.Concrete\bin\Debug\MVCInjection.Interface.pdb
+c:\Users\pankaj.choudhary\documents\visual studio 2015\Projects\Unity\MVCInjection.Concrete\bin\Debug\MVCInjection.Model.pdb
+c:\Users\pankaj.choudhary\documents\visual studio 2015\Projects\Unity\MVCInjection.Concrete\obj\Debug\MVCInjection.Concrete.csprojResolveAssemblyReference.cache
+c:\Users\pankaj.choudhary\documents\visual studio 2015\Projects\Unity\MVCInjection.Concrete\obj\Debug\MVCInjection.Concrete.dll
+c:\Users\pankaj.choudhary\documents\visual studio 2015\Projects\Unity\MVCInjection.Concrete\obj\Debug\MVCInjection.Concrete.pdb
